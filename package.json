@@ -13,7 +13,7 @@
   "main": "./lib/passport-windowslive",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "~0.1.2"
+    "passport-oauth": "git://github.com/ozten/passport-oauth.git"
   },
   "devDependencies": {
     "vows": "0.6.x"
